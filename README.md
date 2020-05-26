@@ -1,2 +1,1 @@
-# CppNDUdacity
-Projects of Udacity CPP Nanodegree
+My Projects implemented throughout Udacity C++ Nanodegree
